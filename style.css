@@ -6,31 +6,10 @@
     background-size: cover;
 }
 
-.results_text {
-    color: white;
-    font-size: 20px;
-}
-
-.sticker-img-size {
-    height: 150px;
-    width: 200px;
-}
-
-#results {
-    background-color: skyblue;
-    padding: 20px;
-    margin: 30px;
-    border-style: solid;
-    border-color: #e989a9;
-    border-width: 2px;
-    border-radius: 5px;
-
-}
-
 .main-heading2 {
     color: white;
     background-color: #e87093;
-    font-size: 24px;
+    font-size: 30px;
     font-family: "Roboto";
     padding: 10px;
     border-radius: 20px;
@@ -42,7 +21,7 @@
     font-family: "Sans-Serif";
     text-align: center;
     background-color: #e43165;
-    border-radius: 32px;
+    border-radius: 40px;
     font-weight: 500;
     font-size: 34px;
     opacity: 0.9;
@@ -70,10 +49,6 @@
     border-style: solid;
     border-color: #e989a9;
     border-width: 2px;
-    border-radius: 5px;
+    border-radius: 5px;
 
-}
-
-#result_span {
-    color: blue;
 }
